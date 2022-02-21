@@ -1,4 +1,4 @@
-#1/usr/bin/env python3
+#!/usr/bin/env python3
 
 # Created by: Dahrio Francois
 # Created on: February 2022
@@ -7,7 +7,7 @@
 
 def main():
     print("Hello, World!")
-    
-    
+
+
 if __name__ == "__main__":
     main()
